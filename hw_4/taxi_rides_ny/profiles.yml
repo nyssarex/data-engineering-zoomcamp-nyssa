@@ -6,7 +6,7 @@ taxi_rides_ny:
       job_execution_timeout_seconds: 300
       job_retries: 1
       keyfile: /workspaces/data-engineering-zoomcamp-nyssa/hw_1/terraform-gcp/key.json
-      location: US
+      location: us-east1
       method: service-account
       priority: interactive
       project: rare-sound-412302

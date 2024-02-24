@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: staging
+    database: rare-sound-412302 
+    schema: trips_data_all1
+
+    tables:
+      - name: green_tripdata
+      
+      - name: yellow_tripdata
+
+      - name: fhv_tripdata
